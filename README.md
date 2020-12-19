@@ -2,7 +2,7 @@
 
 ### Hi there I am Faris 👋
 
-<a href="https://twitter.com/faris_code">
+<a href="https://twitter.com/fariscode_">
   <img align="left" alt="Faris | Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
 </a>
 <a href="https://instagram.com/fariscode">
@@ -14,7 +14,7 @@
 <a href="https://www.youtube.com/channel/UCPtkPn6CMSWAAt7ZvD0Ne2A/">
   <img align="left" alt="Faris | YouTube" width="21px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />
 </a>
-<a href="https://www.linkedin.com/in/faris-al-otaibi-930763177/">
+<a href="https://www.linkedin.com/in/farisotaibi/">
   <img align="left" alt="Faris | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
 </a>
 <br />
@@ -45,7 +45,5 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby,visual basic" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby" />
 </a>
-
-[![codersrank](https://f.top4top.io/p_1740zsb0n1.png)](https://profile.codersrank.io/user/fariscode511/)
