@@ -26,18 +26,16 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](mailto:farisksa79@gmail.com)
 
-### 🔧 Technologies & Tools
+### 🔧 Development Stack
+<img align="left" alt="PHP" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" />
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=wordpress&logoColor=white)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white)
+<img align="left" alt="HTML" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919827.svg" />
+
+<img align="left" alt="CSS" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919826.svg" />
+
+<img align="left" alt="Javascript" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg" />
+
+<img align="left" alt="MySQL" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
 
 ### 📊 My Account Statistics
 
