@@ -39,6 +39,8 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
   <img align="left" alt="MySQL" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
 </div>
 
+<br />
+<br />
 
 ### 📊 My Account Statistics
 
