@@ -1,5 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C41BFF2)
-
 ### Hi there I am Faris 👋
 
 <a href="https://twitter.com/fariscode_">
