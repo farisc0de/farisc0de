@@ -56,5 +56,5 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby,blade" />
 </a>
