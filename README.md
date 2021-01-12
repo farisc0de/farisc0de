@@ -20,7 +20,7 @@
 I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 
 - 🔭 I’m currently working on [Nothing]
-- 🌱 I’m currently learning Codeigniter
+- 🌱 I’m currently learning [Nothing]
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](mailto:farisksa79@gmail.com)
 
