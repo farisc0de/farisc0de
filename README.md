@@ -1,6 +1,6 @@
 ### Hi there I am Faris 👋
 
-<a href="https://twitter.com/fariscode_">
+<a href="#">
   <img align="left" alt="Faris | Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
 </a>
 <a href="https://instagram.com/fariscode">
@@ -19,7 +19,7 @@
 <br />
 I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 
-- 🔭 I’m currently working on [Nothing]
+- 🔭 I’m currently working on [ [PhpSanitization](https://github.com/fariscode511/PhpSanitization) ]
 - 🌱 I’m currently learning [Nothing]
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](mailto:farisksa79@gmail.com)
