@@ -50,6 +50,10 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 <br />
 <br />
 
+### 📃 My Resume
+
+If you like to see my resume click [here](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
+
 ### 📊 My Account Statistics
 
 <a href="#">
