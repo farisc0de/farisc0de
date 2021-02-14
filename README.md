@@ -21,8 +21,11 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 
 - 🔭 I’m currently working on [ [PhpSanitization](https://github.com/fariscode511/PhpSanitization) ]
 - 🌱 I’m currently learning [Nothing]
+- 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](mailto:farisksa79@gmail.com)
+- 📝 I regularly write articles on [my blog](https://www.farisotaibi.com/)
+- 📄 Want Know about my experiences view [my resume](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
 
 ### 🔧 Development Stack
 <div align="left">
@@ -50,9 +53,6 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 <br />
 <br />
 
-### 📃 My Resume
-
-If you like to see my resume click [here](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
 
 ### 📊 My Account Statistics
 
@@ -60,7 +60,7 @@ If you like to see my resume click [here](https://github.com/fariscode511/MyCV/b
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby,blade" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&hide=ruby,blade&show_icons=true&locale=en&layout=compact" />
 </a>
 
 ## 🏆 Trophies
