@@ -62,3 +62,7 @@ If you like to see my resume click [here](https://github.com/fariscode511/MyCV/b
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&&hide=ruby,blade" />
 </a>
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fariscode511)](https://github.com/ryo-ma/github-profile-trophy)
