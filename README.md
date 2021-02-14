@@ -66,3 +66,7 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fariscode511)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 😂 Funny Jokes
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
