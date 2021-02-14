@@ -23,7 +23,7 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 - 🌱 I’m currently learning [Nothing]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
-- 👔 Like to hire me: [Click Here](mailto:farisksa79@gmail.com)
+- 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly write articles on [my blog](https://www.farisotaibi.com/)
 - 📄 Want Know about my experiences view [my resume](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
 
