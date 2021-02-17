@@ -1,4 +1,4 @@
-### Hi there I am Faris 👋
+# Hi there I am Faris 👋
 
 <a href="#">
   <img align="left" alt="Faris | Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
@@ -20,14 +20,14 @@
 I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 
 - 🔭 I’m currently working on [ [PhpSanitization](https://github.com/fariscode511/PhpSanitization) ]
-- 🌱 I’m currently learning [Nothing]
+- 🌱 I’m currently learning [AWS]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly write articles on [my blog](https://www.farisotaibi.com/)
 - 📄 Want Know about my experiences view [my resume](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
 
-### 🔧 Development Stack
+## 🔧 Development Stack
 <div align="left">
   <a href="http://php.net/">
     <img align="left" alt="PHP" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg" />
@@ -53,8 +53,7 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 <br />
 <br />
 
-
-### 📊 My Account Statistics
+## 📊 My Account Statistics
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
