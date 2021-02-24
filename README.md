@@ -48,6 +48,10 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
   <a href="https://www.mysql.com/">
     <img align="left" alt="MySQL" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919836.svg" />
   </a>
+ 
+  <a href="https://www.github.com/">
+    <img align="left" alt="GitHub" width="32px" src="https://www.flaticon.com/svg/static/icons/svg/919/919847.svg" />
+  </a>
 </div>
 
 <br />
