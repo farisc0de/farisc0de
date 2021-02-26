@@ -1,7 +1,7 @@
 # Hi there I am Faris 👋
 
-<a href="#">
-  <img align="left" alt="Faris | Twitter" width="21px" src="https://image.flaticon.com/icons/svg/889/889147.svg" />
+<a href="https://profile.codersrank.io/user/fariscode511">
+  <img align="left" alt="Faris | Codersrank" width="21px" src="https://raw.githubusercontent.com/fariscode511/fariscode511/main/codersrank.svg" />
 </a>
 <a href="https://instagram.com/fariscode">
   <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
