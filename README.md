@@ -1,3 +1,5 @@
+![Banner](https://h.top4top.io/p_1918t0i531.gif)  
+
 # Hi there I am Faris 👋
 
 <a href="https://profile.codersrank.io/user/fariscode511">
