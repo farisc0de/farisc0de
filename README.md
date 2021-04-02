@@ -62,10 +62,10 @@ I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
 ## 📊 My Account Statistics
 
 <a href="#">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=fariscode511&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&hide=ruby,blade&show_icons=true&layout=compact&locale=en" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariscode511&hide=ruby,blade&show_icons=true&layout=compact&locale=en" />
 </a>
 
 ## 🏆 Trophies
