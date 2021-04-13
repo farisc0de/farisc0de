@@ -1,6 +1,6 @@
 ![Banner](https://h.top4top.io/p_1918t0i531.gif)  
 
-# Hi there I am Faris 👋
+# Hi there, I am Faris 👋
 
 <a href="https://instagram.com/fariscode">
   <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
