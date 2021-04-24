@@ -6,14 +6,15 @@
   <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
 </a>
 <a href="https://www.facebook.com/faris.mohammed511">
-  <img align="left" alt="Faris | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/1384/1384053.svg" />
-</a>
-<a href="https://www.youtube.com/channel/UCPtkPn6CMSWAAt7ZvD0Ne2A/">
-  <img align="left" alt="Faris | YouTube" width="21px" src="https://image.flaticon.com/icons/svg/174/174883.svg" />
+  <img align="left" alt="Faris | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111398.svg" />
 </a>
 <a href="https://www.linkedin.com/in/farisotaibi/">
-  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
 </a>
+<a href="https://t.me/fariscode">
+  <img align="left" alt="Faris | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
+</a>
+
 <br />
 <br />
 I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
