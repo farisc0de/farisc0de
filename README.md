@@ -17,7 +17,7 @@
 
 <br />
 <br />
-I am a Full-Stack Web Developer and Freelancer from Saudi Arabia
+I am a Back-End Web Developer and Freelancer from Saudi Arabia
 
 - 🔭 I’m currently working on [ [PhpSanitization](https://github.com/farisd3v/PhpSanitization) ]
 - 🌱 I’m currently learning [AWS]
