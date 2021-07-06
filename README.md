@@ -78,7 +78,7 @@ I have more than 30 courses certification in more than one topic like cybersecur
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisd3v&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisd3v&hide=ruby,blade&show_icons=true&layout=compact&locale=en" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisd3v&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
 </a>
 
 ## 🏆 Trophies
