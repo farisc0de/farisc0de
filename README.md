@@ -36,7 +36,7 @@ I have over 8 years of experience in software development and I developed more t
 
 I have knowledge in Linux based system and how to administrate a Linux system, and I know how to use Git and Github on top of that I have used Github to host my projects like PhpSanitization and my File Sharing software Uploady
 
-I have worked with some known YouTube channels and did some GFX for them stuff like wallpapers and banners for their channels using Photoshop and Cinema 4D.
+I have more than 30 courses certification in more than 10 topics, things like SMM, Web Desing and Development, DevOps, Linux Managment and other topics.
 
 ## 🔧 Development Stack
 <div align="left">
