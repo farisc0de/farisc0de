@@ -38,10 +38,6 @@ I have knowledge in Linux based system and how to administrate a Linux system, a
 
 I have worked with some known YouTube channels and did some GFX for them stuff like wallpapers and banners for their channels using Photoshop and Cinema 4D.
 
-I used to be a hacker so I have knowledge in the cybersecurity division like network security, web application security and firewall configuration.
-
-I have more than 30 courses certification in more than one topic like cybersecurity, programming languages and technologies, Linux administration, and digital marketing
-
 ## 🔧 Development Stack
 <div align="left">
   <a href="http://php.net/">
