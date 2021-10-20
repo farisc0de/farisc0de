@@ -3,16 +3,16 @@
 # Hi there, I am Faris 👋
 
 <a href="https://instagram.com/fariscode">
-  <img align="left" alt="Faris | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+  <img align="left" alt="Faris | Instagram" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/farisd3v">
-  <img align="left" alt="Faris | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111398.svg" />
+  <img align="left" alt="Faris | Facebook" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/farisotaibi/">
-  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111499.svg" />
+  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/fariscode">
-  <img align="left" alt="Faris | Telegram" width="21px" src="https://image.flaticon.com/icons/svg/2111/2111646.svg" />
+  <img align="left" alt="Faris | Telegram" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/telegram.svg" />
 </a>
 
 <br />
