@@ -74,10 +74,8 @@ I have more than 30 courses certification in more than 10 topics, things like SM
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisd3v&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
 </a>
 
+  <img src="https://activity-graph.herokuapp.com/graph?username=farisd3v&theme=minimal" width="84%"/>
+
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farisd3v&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](#)
-
-## 📖 Motivational Quotes
-
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)
