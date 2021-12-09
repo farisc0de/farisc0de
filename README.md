@@ -1,4 +1,4 @@
-![Banner](https://h.top4top.io/p_1918t0i531.gif)  
+![Banner](https://raw.githubusercontent.com/farisd3v/farisd3v/main/Add%20a%20heading.gif)  
 
 # Hi there, I am Faris 👋
 
