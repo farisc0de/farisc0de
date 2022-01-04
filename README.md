@@ -1,18 +1,18 @@
-![Banner](https://raw.githubusercontent.com/farisd3v/farisd3v/main/Add%20a%20heading.gif)  
+![Banner](https://raw.githubusercontent.com/farisc0de/farisc0de/main/Add%20a%20heading.gif)  
 
 # Hi there, I am Faris 👋
 
 <a href="https://instagram.com/fariscode">
-  <img align="left" alt="Faris | Instagram" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/instagram.svg" />
+  <img align="left" alt="Faris | Instagram" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/farisd3v">
-  <img align="left" alt="Faris | Facebook" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/facebook.svg" />
+  <img align="left" alt="Faris | Facebook" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/farisotaibi/">
-  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/linkedin.svg" />
+  <img align="left" alt="Faris | LinkedIn" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/fariscode">
-  <img align="left" alt="Faris | Telegram" width="21px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/telegram.svg" />
+  <img align="left" alt="Faris | Telegram" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/telegram.svg" />
 </a>
 
 <br />
@@ -25,7 +25,7 @@ I am a Back-End Web Developer and Freelancer from Saudi Arabia
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly write articles on [my blog](https://www.farisotaibi.com/)
-- 📄 Want Know about my experiences view [my resume](https://github.com/fariscode511/MyCV/blob/main/My_CV.pdf)
+- 📄 Want Know about my experiences view [my resume](https://github.com/farisc0de/MyCV/blob/main/My_CV.pdf)
 
 ## 👨‍💻 About Me
 
@@ -38,27 +38,27 @@ I have more than 30 courses certification in more than 10 topics, things like SM
 ## 🔧 Development Stack
 <div align="left">
   <a href="http://php.net/">
-    <img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/php.svg" />
+    <img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/php.svg" />
   </a>
   
   <a href="https://whatwg.org/">
-    <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/html-5.svg" />
+    <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/html-5.svg" />
   </a>
   
   <a href="https://www.w3.org/Style/CSS/">
-    <img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/css.svg" />
+    <img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/css.svg" />
   </a>
   
   <a href="https://www.javascript.com/">
-    <img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/javascript.svg" />
+    <img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/javascript.svg" />
   </a>
   
   <a href="https://www.mysql.com/">
-    <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/mysql.svg" />
+    <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/mysql.svg" />
   </a>
  
   <a href="https://www.github.com/">
-    <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/farisd3v/farisd3v/main/icons/github.svg" />
+    <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/github.svg" />
   </a>
 </div>
 
@@ -68,14 +68,14 @@ I have more than 30 courses certification in more than 10 topics, things like SM
 ## 📊 My Account Statistics
 
 <a href="#">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisd3v&hide=["issues"]&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisc0de&hide=["issues"]&show_icons=true" />
 </a>
 <a href="#">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisd3v&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
 </a>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=farisd3v&theme=minimal" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=farisc0de&theme=minimal" width="100%"/>
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farisd3v&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](#)
