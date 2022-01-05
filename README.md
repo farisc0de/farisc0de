@@ -5,7 +5,7 @@
 <a href="https://instagram.com/fariscode">
   <img align="left" alt="Faris | Instagram" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/farisd3v">
+<a href="https://www.facebook.com/farisc0de">
   <img align="left" alt="Faris | Facebook" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/farisotaibi/">
@@ -19,7 +19,7 @@
 <br />
 I am a Back-End Web Developer and Freelancer from Saudi Arabia
 
-- 🔭 I’m currently working on [ [PhpSanitization](https://github.com/farisd3v/PhpSanitization) ]
+- 🔭 I’m currently working on [ [PhpSanitization](https://github.com/farisc0de/PhpSanitization) ]
 - 🌱 I’m currently learning [AWS]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
