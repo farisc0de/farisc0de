@@ -19,8 +19,8 @@
 <br />
 I am a Back-End Web Developer and Freelancer from Saudi Arabia
 
-- 🔭 I’m currently working on [ [PhpSanitization](https://github.com/farisc0de/PhpSanitization) ]
-- 🌱 I’m currently learning [AWS]
+- 🔭 I’m currently working on [ [EcommerceSystem](#) ]
+- 🌱 I’m currently learning [AWS and VueJS]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
@@ -29,11 +29,11 @@ I am a Back-End Web Developer and Freelancer from Saudi Arabia
 
 ## 👨‍💻 About Me
 
-I have over 8 years of experience in software development and I developed more than 10 projects and I know more than 10 programming languages like PHP, .NET, Java, and Python and I have worked on some entrepreneurship ideas like ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha all failed (:
+I am an experienced software developer and I worken on more than 20 and I have worked on some entrepreneurship ideas like ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha all failed (:
 
 I have knowledge in Linux based system and how to administrate a Linux system, and I know how to use Git and Github on top of that I have used Github to host my projects like PhpSanitization and my File Sharing software Uploady
 
-I have more than 30 courses certification in more than 10 topics, things like SMM, Web Design and Development, DevOps, Linux Managment and other topics.
+I have more than 100 courses certification in more than 10 topics, things like SMM, Web Design and Development, DevOps, Linux Managment and other topics.
 
 ## 🔧 Development Stack
 <div align="left">
