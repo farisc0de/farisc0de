@@ -24,12 +24,12 @@ I am a Back-End Web Developer and Freelancer from Saudi Arabia
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
-- 📝 I regularly write articles on [my blog](https://www.farisotaibi.com/)
+- 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
 - 📄 Want Know about my experiences view [my resume](https://github.com/farisc0de/MyCV/blob/main/My_CV.pdf)
 
 ## 👨‍💻 About Me
 
-I am an experienced software developer and I worken on more than 20 and I have worked on some entrepreneurship ideas like ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha all failed (:
+I am an experienced software developer and I worked on more than 20 projects also I have worked on some entrepreneurship ideas and businesses like ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha all failed (:
 
 I have knowledge in Linux based system and how to administrate a Linux system, and I know how to use Git and Github on top of that I have used Github to host my projects like PhpSanitization and my File Sharing software Uploady
 
