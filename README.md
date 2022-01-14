@@ -25,7 +25,7 @@ I am a Back-End Web Developer and Freelancer from Saudi Arabia
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
-- 📄 Want Know about my experiences view [my resume](https://github.com/farisc0de/MyCV/blob/main/My_CV.pdf)
+- 📄 Want to know about my experiences view [my resume](https://github.com/farisc0de/MyCV/blob/main/My_CV.pdf)
 
 ## 👨‍💻 About Me
 
