@@ -17,10 +17,10 @@
 
 <br />
 <br />
-I am a Back-End Web Developer and Freelancer from Saudi Arabia
+I am a Back-End Web Developer and Freelancer also I make cool Open-Source projects 😁
 
-- 🔭 I’m currently working on [ [EcommerceSystem](#) ]
-- 🌱 I’m currently learning [AWS and VueJS]
+- 🔭 I’m currently working on [ EcommerceApp ]
+- 🌱 I’m currently learning [ AWS and VueJS ]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
