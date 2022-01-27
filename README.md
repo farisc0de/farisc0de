@@ -20,12 +20,13 @@
 I am a Back-End Web Developer and Freelancer also I make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ EcommerceApp ]
-- 🌱 I’m currently learning [ AWS and VueJS ]
+- 🌱 I’m currently learning [ AWS and VueJS, Flutter ]
 - 💬 Ask me about PHP, HTML, CSS, JavaScript, SQL
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
 - 📄 Want to know about my experiences view [my resume](https://github.com/farisc0de/MyCV/blob/main/My_CV.pdf)
+- 😂 Fun Fact: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
 
 ## 👨‍💻 About Me
 
