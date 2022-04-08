@@ -79,4 +79,4 @@ I have more than 100 courses certification in more than 10 topics, things like S
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=flat&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](#)
