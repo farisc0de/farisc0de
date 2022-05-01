@@ -61,6 +61,10 @@ I have more than 100 courses certification in more than 10 topics, things like S
   <a href="https://www.github.com/">
     <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/github.svg" />
   </a>
+  
+  <a href="https://getcomposer.org/">
+    <img align="left" alt="Composer" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/composer.svg" />
+  </a>
 </div>
 
 <br />
