@@ -79,8 +79,6 @@ I have more than 100 courses certification in more than 10 topics, things like S
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
 </a>
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=farisc0de&theme=minimal" width="100%"/>
-
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](#)
