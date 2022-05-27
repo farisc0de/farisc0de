@@ -39,35 +39,34 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 ## 🔧 Development Stack
 <div align="left">
   <a href="http://php.net/">
-    <img align="left" alt="PHP" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/php.svg" />
+    <img align="left" alt="PHP" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/php.svg" />
   </a>
   
   <a href="https://whatwg.org/">
-    <img align="left" alt="HTML" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/html-5.svg" />
+    <img align="left" alt="HTML" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/html-5.svg" />
   </a>
   
   <a href="https://www.w3.org/Style/CSS/">
-    <img align="left" alt="CSS" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/css.svg" />
+    <img align="left" alt="CSS" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/css.svg" />
   </a>
   
   <a href="https://www.javascript.com/">
-    <img align="left" alt="Javascript" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/javascript.svg" />
+    <img align="left" alt="Javascript" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/javascript.svg" />
   </a>
   
   <a href="https://www.mysql.com/">
-    <img align="left" alt="MySQL" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/mysql.svg" />
+    <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/mysql.svg" />
   </a>
  
   <a href="https://www.github.com/">
-    <img align="left" alt="GitHub" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/github.svg" />
+    <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/github.svg" />
   </a>
   
   <a href="https://getcomposer.org/">
-    <img align="left" alt="Composer" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/composer.svg" />
+    <img align="left" alt="Composer" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/composer.svg" />
   </a>
 </div>
 
-<br />
 <br />
 <br />
 
@@ -75,27 +74,26 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 
 <div align="left">
   <a href="#">
-    <img align="left" alt="Books" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/read.png" />
+    <img align="left" alt="Books" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/read.png" />
   </a>
   
   <a href="#">
-    <img align="left" alt="Movies" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/3d-movie.png" />
+    <img align="left" alt="Movies" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/3d-movie.png" />
   </a>
   
   <a href="#">
-    <img align="left" alt="TV Shows" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/tv-show.png" />
+    <img align="left" alt="TV Shows" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/tv-show.png" />
   </a>
   
   <a href="#">
-    <img align="left" alt="Music" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/listen.png" />
+    <img align="left" alt="Music" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/listen.png" />
   </a>
   
   <a href="#">
-    <img align="left" alt="Podcasts" width="64px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/podcaster.png" />
+    <img align="left" alt="Podcasts" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/podcaster.png" />
   </a>
 </div>
 
-<br />
 <br />
 <br />
 
