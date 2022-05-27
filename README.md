@@ -17,7 +17,7 @@
 
 <br />
 <br />
-I am a Computer Scientist, a Back-End Web Developer and a Freelancer also I make cool Open-Source projects 😁
+I am a Computer Scientist, a Back-End Web Developer and a Freelancer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **EcommerceApp** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, and Flutter** ]
@@ -30,11 +30,11 @@ I am a Computer Scientist, a Back-End Web Developer and a Freelancer also I make
 
 ## 👨‍💻 About Me
 
-I am an experienced software developer and I worked on more than 20 projects also I have worked on some entrepreneurship ideas and businesses like ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha all failed (:
+I'm an experienced software developer who's worked on over 20 projects. I've also worked on a few startup ideas and businesses, including ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha, all of which failed (:
 
-I have experience in using Linux based systems and how to administrate a Linux system, and I know how to use Git and Github on top of that I have used Github to host my projects like PhpSanitization and my File Sharing software Uploady
+I am familiar with Linux-based systems and how to administer them, as well as Git and Github, which I have used to host my projects such as PhpSanitization and Uploady.
 
-I have more than 100 courses certification in more than 10 topics, such as SMM, Web Design and Development, DevOps, Linux Management, and other topics.
+I've completed over 80 courses in over ten different topics, including SMM, Web Design and Development, DevOps, Linux Management, and others.
 
 ## 🔧 Development Stack
 <div align="left">
