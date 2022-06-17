@@ -92,6 +92,10 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
   <a href="#">
     <img align="left" alt="Podcasts" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/podcaster.png" />
   </a>
+  
+  <a href="#">
+    <img align="left" alt="Podcasts" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/meditation.png" />
+  </a>
 </div>
 
 <br />
