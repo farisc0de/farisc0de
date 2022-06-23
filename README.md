@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=farisc0de&color=blueviolet)
+
 ![Banner](https://raw.githubusercontent.com/farisc0de/farisc0de/main/Add%20a%20heading.gif)  
 
 # Hi there, I am Faris 👋
@@ -104,11 +106,13 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 ## 📊 My Account Statistics
 
 <a href="#">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisc0de&hide=["issues"]&show_icons=true" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisc0de&show_icons=true&theme=github_dark&hide=["issues"]" />
 </a>
 <a href="#">
-  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en&theme=github_dark" />
 </a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisc0de&theme=github-dark-blue)](https://git.io/streak-stats)
 
 ## 🏆 Trophies
 
