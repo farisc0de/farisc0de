@@ -32,7 +32,7 @@ I am a Computer Scientist, a Back-End Web Developer and a Freelancer, I also mak
 
 ## 👨‍💻 About Me
 
-I'm an experienced software developer who's worked on over 20 projects. I've also worked on a few startup ideas and businesses, including ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha, all of which failed (:
+I'm a software developer who's worked on over 20 projects. I've also worked on a few startup ideas and businesses, including ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha, all of which failed (:
 
 I am familiar with Linux-based systems and how to administer them, as well as Git and Github, which I have used to host my projects such as PhpSanitization and Uploady.
 
