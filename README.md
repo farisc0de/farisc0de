@@ -121,3 +121,8 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 ## 🏆 Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](#)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
+</p>
