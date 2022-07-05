@@ -127,6 +127,10 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 
 ![](https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp)
 
+## 💬 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?theme=dark&type=horizontal)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer&animation=twinkling"/>
 </p>
