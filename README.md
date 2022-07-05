@@ -116,7 +116,7 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en&theme=github_dark" />
 </a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisc0de&theme=github-dark-blue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=farisc0de&theme=github-dark-blue)](https://git.io/streak-stats) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=farisc0de&theme=github_dark&utcOffset=8)
 
 ## 🏆 Trophies
 
