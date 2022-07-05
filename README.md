@@ -19,7 +19,10 @@
 
 <br />
 <br />
+
 I am a Computer Scientist, a Back-End Web Developer and a Freelancer, I also make cool Open-Source projects 😁
+
+<a href="https://app.daily.dev/fariscode"><img src="https://api.daily.dev/devcards/2ced650c616a4fe393bb960ba17cecee.png?r=63n" align="right" width="200" alt="Faris AL-Otaibi's Dev Card"/></a>
 
 - 🔭 I’m currently working on [ **EcommerceApp** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, and Flutter** ]
@@ -108,6 +111,7 @@ I've completed over 80 courses in over ten different topics, including SMM, Web 
 <a href="#">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=farisc0de&show_icons=true&theme=github_dark&hide=["issues"]" />
 </a>
+
 <a href="#">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farisc0de&hide=ruby,blade&show_icons=true&layout=compact&&langs_count=4&locale=en&theme=github_dark" />
 </a>
