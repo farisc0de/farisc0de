@@ -23,7 +23,7 @@
 
 <a href="https://app.daily.dev/fariscode"><img src="https://api.daily.dev/devcards/2ced650c616a4fe393bb960ba17cecee.png?r=63n" align="right" width="200" alt="Faris AL-Otaibi's Dev Card"/></a>
 
-I am a Computer Scientist, a Back-End Web Developer, I also make cool Open-Source projects 😁
+I am a Digital Transformation Specialist, a Back-End Web Developer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **EcommerceApp** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, and Flutter** ]
