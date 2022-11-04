@@ -26,7 +26,7 @@
 I am a Digital Transformation Specialist, a Back-End Web Developer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **EcommerceApp** ]
-- 🌱 I’m currently learning [ **AWS, VueJS, and Flutter** ]
+- 🌱 I’m currently learning [ **AWS, VueJS, and ASP.NET** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: farisksa79@gmail.com
 - 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
