@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/farisc0de">
   <img align="left" alt="Faris | Facebook" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/facebook.svg" />
 </a>
-<a href="https://www.linkedin.com/in/farisotaibi/">
+<a href="https://www.linkedin.com/in/farisc0de/">
   <img align="left" alt="Faris | LinkedIn" width="21px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/fariscode">
