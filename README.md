@@ -25,11 +25,10 @@
 
 I am a Digital Transformation Specialist, a Back-End Web Developer, I also make cool Open-Source projects 😁
 
-- 🔭 I’m currently working on [ **EcommerceApp** ]
-- 🌱 I’m currently learning [ **AWS, VueJS, and ASP.NET** ]
+- 🔭 I’m currently working on [ **Uploady** ]
+- 🌱 I’m currently learning [ **AWS, VueJS, ASP.NET, and DevOps** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: farisksa79@gmail.com
-- 👔 Like to hire me: [Click Here](https://forms.gle/bLV2rajU8Ts4KRPZ7)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
 - 📄 Want to know about my experiences view [my resume](https://www.farisotaibi.com/resume/My_CV.pdf)
 - 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
@@ -42,7 +41,7 @@ I am familiar with Linux-based systems and how to administer them, as well as Gi
 
 I've completed over 80 courses in over ten different topics, including SMM, Web Design and Development, DevOps, Linux Management, and others.
 
-I have a nanodegree in Full Stack JavaScript Development and I am currently studying for the IELTS exam.
+I have a nanodegree in Full Stack JavaScript Development and I am currently studying for the IELTS exam and ITIL 4 Foundation.
 
 ## 🔧 Development Stack
 <div align="left">
