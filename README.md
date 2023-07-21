@@ -72,6 +72,10 @@ I have a nanodegree in Full Stack JavaScript Development and I am currently stud
   <a href="https://getcomposer.org/">
     <img align="left" alt="Composer" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/composer.svg" />
   </a>
+
+  <a href="https://docker.com/">
+    <img align="left" alt="Docker" width="32px" src="https://raw.githubusercontent.com/farisc0de/farisc0de/main/icons/docker.svg" />
+  </a>
 </div>
 
 <br />
