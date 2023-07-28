@@ -41,7 +41,7 @@ I am familiar with Linux-based systems and how to administer them, as well as Gi
 
 I've completed over 80 courses in over ten different topics, including SMM, Web Design and Development, DevOps, Linux Management, and others.
 
-I have a nanodegree in Full Stack JavaScript Development and I am currently studying for the IELTS exam and ITIL 4 Foundation.
+I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foundation certified, I am currently studying for the IELTS exam.
 
 ## 🔧 Development Stack
 <div align="left">
