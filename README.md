@@ -30,7 +30,7 @@ I am a Digital Transformation Specialist, a Back-End Web Developer, I also make 
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: farisksa79@gmail.com
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
-- 📄 Want to know about my experiences view [my resume](https://www.farisotaibi.com/resume/My_CV.pdf)
+- 📄 Want to know about my experiences view [my resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/farisc0de/resume/main/My_Resume.pdf)
 - 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
 
 ## 👨‍💻 About Me
