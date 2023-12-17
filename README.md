@@ -23,14 +23,14 @@
 
 <a href="https://app.daily.dev/fariscode"><img src="https://api.daily.dev/devcards/2ced650c616a4fe393bb960ba17cecee.png?r=63n" align="right" width="200" alt="Faris AL-Otaibi's Dev Card"/></a>
 
-I am an Applications Management Sr. Specialist, and a Back-End Web Developer, I also make cool Open-Source projects 😁
+I am a Digital Delivery Sr. Specialist, and a Back-End Web Developer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **Uploady** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, ASP.NET, and DevOps** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: farisksa79@gmail.com
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
-- 📄 Want to know about my experiences view [my resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/farisc0de/resume/main/My_Resume.pdf)
+- 📄 Want to know about my experiences, view [my resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/farisc0de/resume/main/My_Resume.pdf)
 - 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
 
 ## 👨‍💻 About Me
@@ -39,9 +39,9 @@ I'm a software developer who's worked on over 20 projects. I've also worked on a
 
 I am familiar with Linux-based systems and how to administer them, as well as Git and Github, which I have used to host my projects such as PhpSanitization and Uploady.
 
-I've completed over 80 courses in over ten different topics, including SMM, Web Design and Development, DevOps, Linux Management, and others.
+I've completed over 80 courses in over 10 different topics, including SMM, Web Design and Development, DevOps, Linux Management, and others.
 
-I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foundation certified, I am currently studying for the IELTS exam.
+I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foundation certified; I am currently studying for the IELTS exam.
 
 ## 🔧 Development Stack
 <div align="left">
