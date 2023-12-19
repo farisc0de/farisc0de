@@ -28,7 +28,7 @@ I am a Digital Delivery Sr. Specialist, and a Back-End Web Developer, I also mak
 - 🔭 I’m currently working on [ **Uploady** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, ASP.NET, and DevOps** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
-- 📫 How to reach me: farisksa79@gmail.com
+- 📫 How to reach me: [Calendly](https://calendly.com/fariscode/30min)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
 - 📄 Want to know about my experiences, view [my resume](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/farisc0de/resume/main/My_Resume.pdf)
 - 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
