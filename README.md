@@ -130,6 +130,12 @@ I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foun
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](#)
 
+### PHPClassess Growing Author
+![](https://www.phpclasses.org/status/badge/growing-author/user/1609457/v/3f2768) 
+
+### 3x PHPClassess Innovation Award Nominee
+![](https://files.phpclasses.org/graphics/phpclasses/innovation-award-logo.png)
+
 ## 😂 Funny Gif
 
 ![](https://i.giphy.com/media/13HgwGsXF0aiGY/giphy.webp)
