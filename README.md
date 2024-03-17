@@ -112,6 +112,10 @@ I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foun
 <br />
 <br />
 
+## 🎮 When I'm AFK
+
+![](https://img.shields.io/badge/PlayStation%205-003791.svg?style=for-the-badge&logo=PlayStation-5&logoColor=white) ![](https://img.shields.io/badge/Netflix-E50914.svg?style=for-the-badge&logo=Netflix&logoColor=white) ![](https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) 
+
 ## 📊 My Account Statistics
 
 <a href="#">
