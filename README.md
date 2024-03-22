@@ -120,18 +120,17 @@ I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foun
 
 ## 📊 My Account Statistics
 
-<div align="center">
+<div align="">
   <img src="https://github-readme-stats.vercel.app/api?username=farisc0de&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=farisc0de&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=farisc0de&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=farisc0de&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 [![Codewars Status](https://www.codewars.com/users/fariscode/badges/large)](https://www.codewars.com/users/fariscode/completed_solutions)
 
 ## 🏆 Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=farisc0de&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,C&margin-w=15&no-frame=true)](#)
+<img src="https://github-profile-trophy.vercel.app?username=farisc0de&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 
 ### PHPClassess Growing Author
 ![](https://www.phpclasses.org/status/badge/growing-author/user/1609457/v/3f2768) 
