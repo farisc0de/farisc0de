@@ -33,6 +33,8 @@ I am a Digital Delivery Sr. Specialist, and a Back-End Web Developer, I also mak
 - 📄 Want to know about my experiences, view [my resume](https://flowcv.com/resume/9r3klbvu1s)
 - 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
 
+<img src="https://raw.githubusercontent.com/farisc0de/farisc0de/output/snake.svg" alt="Snake animation" />
+
 ## 👨‍💻 About Me
 
 I'm a software developer who's worked on over 20 projects. I've also worked on a few startup ideas and businesses, including ArabLine Tech, ThunderHost, ShorttyCo, and PostAlpha, all of which failed (:
