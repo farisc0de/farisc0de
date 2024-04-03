@@ -126,8 +126,6 @@ I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foun
   <img src="https://streak-stats.demolab.com?user=farisc0de&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-[![Codewars Status](https://www.codewars.com/users/fariscode/badges/large)](https://www.codewars.com/users/fariscode/completed_solutions)
-
 ## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app?username=farisc0de&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
