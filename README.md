@@ -23,15 +23,15 @@
 
 <a href="https://app.daily.dev/fariscode"><img src="https://api.daily.dev/devcards/2ced650c616a4fe393bb960ba17cecee.png?r=63n" align="right" width="200" alt="Faris AL-Otaibi's Dev Card"/></a>
 
-I am a Digital Delivery Sr. Specialist, and a Back-End Web Developer, I also make cool Open-Source projects 😁
+I am a Application Development Consultant, and a Back-End Web Developer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **Uploady** ]
+- 💼 I'm currently building up [ **Innovaox** ]
 - 🌱 I’m currently learning [ **AWS, VueJS, ASP.NET, and DevOps** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: [Calendly](https://calendly.com/fariscode/30min)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
 - 📄 Want to know about my experiences, view [my resume](https://flowcv.com/resume/9r3klbvu1s)
-- 😂 **Fun Fact**: I learned how to code when I was 12 because I wanted to get back at my friends for hacking my email.
 
 <img src="https://raw.githubusercontent.com/farisc0de/farisc0de/output/snake.svg" alt="Snake animation" />
 
