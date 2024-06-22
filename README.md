@@ -24,11 +24,11 @@
 <a href="https://app.daily.dev/fariscode"><img src="https://api.daily.dev/devcards/v2/w5rEv9aWD.png?type=default&r=mrp" align="right" width="200" alt="Faris AL-Otaibi's Dev Card"/></a>
 
 
-I am a Application Development Consultant, and a Back-End Web Developer, I also make cool Open-Source projects 😁
+I am an Application Development Consultant, Back-End Web Developer, and DevOps Engineer, I also make cool Open-Source projects 😁
 
 - 🔭 I’m currently working on [ **Uploady** ]
 - 💼 I'm currently building up [ **Innovaox** ]
-- 🌱 I’m currently learning [ **AWS, VueJS, ASP.NET, and DevOps** ]
+- 🌱 I’m currently learning [ **Oracle OCI, VueJS, DevOps, and IaC** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: [Calendly](https://calendly.com/fariscode/30min)
 - 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
