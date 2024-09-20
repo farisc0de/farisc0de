@@ -134,7 +134,10 @@ I have a nano degree in Full Stack JavaScript Development, and I am ITIL v4 Foun
 ### PHPClassess Growing Author
 ![](https://www.phpclasses.org/status/badge/growing-author/user/1609457/v/3f2768) 
 
-### 3x PHPClassess Innovation Award Nominee
+### 5x PHPClassess Innovation Award Nominee
+![](https://files.phpclasses.org/graphics/phpclasses/innovation-award-logo.png)
+
+### 1x PHPClassess Innovation Award Winner
 ![](https://files.phpclasses.org/graphics/phpclasses/innovation-award-logo.png)
 
 ## 😂 Funny Gif
