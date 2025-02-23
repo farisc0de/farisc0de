@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=farisc0de&color=blueviolet&style=for-the-badge) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white) ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 
-![Header](https://raw.githubusercontent.com/farisc0de/farisc0de/main/Add%20a%20heading.gif)
+![Header](https://raw.githubusercontent.com/farisc0de/farisc0de/main/header.png)
 
 <img src="https://readme-typing-svg.herokuapp.com?color=316DCA&vCenter=true&multiline=true&width=425&height=85&lines=%E2%80%9CTry+not+to+become+a+man+of+success%2C;but+rather+become+a+man+of+value.%E2%80%9D;%E2%80%93+Albert+Einstein" align="center" />
 
