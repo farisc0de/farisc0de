@@ -31,7 +31,7 @@ I am a Senior Software Engineer, Back-End Web Developer, and DevOps Engineer, I 
 - 🌱 I’m currently learning [ **Oracle OCI, VueJS, DevOps, and IaC** ]
 - 💬 Ask me about **PHP, HTML, CSS, JavaScript, SQL**
 - 📫 How to reach me: [Calendly](https://calendly.com/fariscode/30min)
-- 📝 I regularly publish posts on [my IG](https://www.instagram.com/fariscode)
+- 📝 I regularly publish posts on [my LinkedIn](https://www.linkedin.com/in/farisc0de/)
 - 📄 Want to know about my experiences, view [my resume](https://flowcv.com/resume/9r3klbvu1s)
 
 <img src="https://raw.githubusercontent.com/farisc0de/farisc0de/output/snake.svg" alt="Snake animation" />
