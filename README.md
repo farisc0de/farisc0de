@@ -2,7 +2,7 @@
 
 ![Header](https://raw.githubusercontent.com/farisc0de/farisc0de/main/header.png)
 
-<img src="https://readme-typing-svg.herokuapp.com?color=B14C53ff&vCenter=true&multiline=true&width=425&height=85&lines=%E2%80%9CTry+not+to+become+a+man+of+success%2C;but+rather+become+a+man+of+value.%E2%80%9D;%E2%80%93+Albert+Einstein" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?color=B14C53ff&vCenter=true&width=425&height=85&lines=%22Make+it+lean%2C+make+it+fast%2C+make+it+work%22" align="center" />
 
 # Hi there, I am Faris 👋
 
